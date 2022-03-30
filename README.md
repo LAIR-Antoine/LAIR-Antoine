@@ -3,6 +3,22 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7A826&width=425&lines=%C3%89tudiant+MMI+%C3%A0+l'IUT+de+Troyes;D%C3%A9veloppeur+Full-Stack+React+%2F+PHP"></a>
 </p>
 
+<br>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=LAIR-Antoine&label=Nombre%20de%20vues&color=0e75b6&style=plastic" alt="LAIR-Antoine" />
+	
+</p>
+
+## :speech_balloon: Me contacter
+
+<p align="center">
+	<a href="mailto:antoine.lair89@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/LAIR-Antoine"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/lairantoine-dev/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	
+</p>
+
 ## 🛠️ Mes compétences
 
 ### 👉 Dev Back
@@ -127,4 +143,3 @@
 Crédits: [Antoine Lair](https://github.com/LAIR-Antoine)
 
 Dernière MAJ: 30/03/2022
-
