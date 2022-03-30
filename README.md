@@ -10,6 +10,14 @@
 	
 </p>
 
+## :running: Mon profil
+
+-   :school: Je suis `étudiant en MMI` à l'IUT de Troyes
+-   :computer: Développeur du site de `Sens Triathlon`
+-   :memo: À la recherche  d'une alternance en tant que `Développeur web` pour 2 ans à partir de septembre 2022.
+
+<br>
+
 ## :speech_balloon: Me contacter
 
 <p align="center">
@@ -137,6 +145,24 @@
 <br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LAIR-Antoine&layout=compact&theme=discord" alt="LAIR-Antoine" /></a> </p>
+
+## :open_file_folder: Mes projets publics 
+
+	
+<div>
+  <p align="center">
+    	<a href="https://github.com/LAIR-Antoine/portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LAIR-Antoine&repo=portfolio&theme=dracula" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/LAIR-Antoine/website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LAIR-Antoine&repo=website&theme=dracula" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/LAIR-Antoine/LAIR-Antoine">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LAIR-Antoine&repo=LAIR-Antoine&theme=dracula" alt="GitHub Stats" />
+    	</a>
+	
+  </p>
+</div>
 
 ---
 
