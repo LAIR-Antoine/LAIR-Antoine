@@ -14,7 +14,7 @@
 
 -   :school: Je suis `étudiant en MMI` à l'IUT de Troyes
 -   :computer: Développeur du site de `Sens Triathlon`
--   :memo: À la recherche  d'une alternance en tant que `Développeur web` pour 2 ans à partir de septembre 2022.
+-   :memo: À la recherche  d'une alternance en tant que `développeur web full-stack` pour 2 ans à partir de septembre 2022.
 
 <br>
 
