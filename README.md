@@ -13,8 +13,8 @@
 ## :running: Mon profil
 
 -   :school: Je suis `étudiant en MMI` à l'IUT de Troyes
--   :computer: Développeur du site de `Sens Triathlon`
--   :memo: À la recherche  d'une alternance en tant que `développeur web full-stack` pour 2 ans à partir de septembre 2022.
+-   :computer: Développeur du site de `Sens Triathlon` et `UC Chamoy`
+-   :memo: En alternance en tant que `développeur web full-stack` pour 2 ans depuis septembre 2022 chez `Piscines Magiline`
 
 <br>
 
